@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>MotherCoders</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+         <link rel="stylesheet" href="../style.css">
+    </head>
+
+    <body>
+
+        <h1>Contact Us</h1>
+
+        <div>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        
+        <div class="margin-20">
+            <button id="btn" onclick="document.location='../index.html'">Back to Home</button>
+        </div>
+        
+        
+
+      
+    </body>
+</html>
